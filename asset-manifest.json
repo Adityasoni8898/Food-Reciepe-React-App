@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-food-recipes-app/static/css/main.7d2f57f4.css",
-    "main.js": "/react-food-recipes-app/static/js/main.e47ee108.js",
-    "static/js/787.05c72c2e.chunk.js": "/react-food-recipes-app/static/js/787.05c72c2e.chunk.js",
-    "static/media/logo.svg": "/react-food-recipes-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-food-recipes-app/index.html",
-    "main.7d2f57f4.css.map": "/react-food-recipes-app/static/css/main.7d2f57f4.css.map",
-    "main.e47ee108.js.map": "/react-food-recipes-app/static/js/main.e47ee108.js.map",
-    "787.05c72c2e.chunk.js.map": "/react-food-recipes-app/static/js/787.05c72c2e.chunk.js.map"
+    "main.css": "/Food-Reciepe-React-App/static/css/main.7d2f57f4.css",
+    "main.js": "/Food-Reciepe-React-App/static/js/main.fc489cbf.js",
+    "static/js/787.05c72c2e.chunk.js": "/Food-Reciepe-React-App/static/js/787.05c72c2e.chunk.js",
+    "static/media/logo.svg": "/Food-Reciepe-React-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Food-Reciepe-React-App/index.html",
+    "main.7d2f57f4.css.map": "/Food-Reciepe-React-App/static/css/main.7d2f57f4.css.map",
+    "main.fc489cbf.js.map": "/Food-Reciepe-React-App/static/js/main.fc489cbf.js.map",
+    "787.05c72c2e.chunk.js.map": "/Food-Reciepe-React-App/static/js/787.05c72c2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d2f57f4.css",
-    "static/js/main.e47ee108.js"
+    "static/js/main.fc489cbf.js"
   ]
 }
